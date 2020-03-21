@@ -2,5 +2,15 @@
 
 
 # Desafios
-:books: Desafios de programação
+> :books: Desafios de programação
 
+# Como fazer os desafios
+
+1. Forke o repositorio.
+2. Clone o repositorio na sua area de trabalho.
+3. Na Pasta de cada desafio você ira colocar seu programa. 
+4. Caso você complete o desafio marque nos Completados abaixo.
+
+# Completados
+
+- [ ] Desafio #01
