@@ -2,5 +2,5 @@
 
 
 # Desafios
-:books: Desafios back-end
+:books: Desafios de programação
 
