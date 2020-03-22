@@ -15,4 +15,4 @@
 
 # Completados
 
-- [ ] Desafio #01
+- [x] Desafio #01
